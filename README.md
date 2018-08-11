@@ -11,8 +11,8 @@ Patent automatic classification (PAC) tasks have drawn a lot of research interes
 
 ## Terminology
 
-International Patent Classification (IPC): 
-http://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&version=20180101&symbol=none&menulang=en&lang=en&viewmode=f&fipcpc=no&showdeleted=yes&indexes=no&headings=yes&notes=yes&direction=o2n&initial=A&cwid=none&tree=no&searchmode=smart
+International Patent Classification ([IPC] (http://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&version=20180101&symbol=none&menulang=en&lang=en&viewmode=f&fipcpc=no&showdeleted=yes&indexes=no&headings=yes&notes=yes&direction=o2n&initial=A&cwid=none&tree=no&searchmode=smart)): 
+
 
 Patent Automatic Classification (PAC): A PAC system is designed for classifying patents into corresponding categories.
 
