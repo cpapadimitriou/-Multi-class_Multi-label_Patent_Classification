@@ -1,6 +1,4 @@
-# W266-Final-Project
-
-Multi-Label Multi-Class Patent Classification with NLP and Hybrid Neural Networks
+# Multi-Label Multi-Class Patent Classification with NLP and Hybrid Neural Networks
 
 #### If you are trying to clone .gz or .pkl files, you will need git lfs installed. Please follow the instructions at https://git-lfs.github.com to install git lfs. 
 
